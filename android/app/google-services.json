@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "588999524663",
+    "project_id": "cakelisiouso",
+    "storage_bucket": "cakelisiouso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588999524663:android:c9818a29b79891ef98dab2",
+        "android_client_info": {
+          "package_name": "com.example.cake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8oXz2DQxDcDGm2N6SeVn9elWHd5IlfTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
